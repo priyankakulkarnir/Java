@@ -1,0 +1,820 @@
+Welcome to the Marathon Race Runner Program 
+
+Select your data source:
+
+1. Derby database
+2. XML file
+3. Text file
+4. Default two runners
+5. Exit
+
+Enter your choice: 1
+
+Get set...Go!
+
+Dog : 0
+Tortoise : 10
+Hare : 0
+Cat : 0
+Horse : 0
+Horse : 0
+Dog : 20
+Hare : 0
+Cat : 0
+Tortoise : 20
+Tortoise : 30
+Horse : 0
+Cat : 0
+Dog : 20
+Hare : 0
+Horse : 50
+Dog : 20
+Cat : 0
+Tortoise : 30
+Hare : 0
+Cat : 0
+Horse : 50
+Dog : 20
+Hare : 80
+Tortoise : 40
+Dog : 20
+Cat : 0
+Tortoise : 50
+Horse : 100
+Hare : 160
+Tortoise : 60
+Hare : 160
+Horse : 100
+Dog : 40
+Cat : 0
+Tortoise : 70
+Dog : 40
+Cat : 0
+Horse : 100
+Hare : 160
+Cat : 0
+Tortoise : 80
+Dog : 40
+Horse : 100
+Hare : 240
+Tortoise : 80
+Horse : 100
+Cat : 0
+Dog : 40
+Hare : 320
+Dog : 40
+Tortoise : 90
+Hare : 400
+Cat : 0
+Horse : 100
+Hare : 480
+Cat : 0
+Horse : 150
+Tortoise : 90
+Dog : 40
+Hare : 480
+Tortoise : 100
+Dog : 40
+Cat : 0
+Horse : 150
+Dog : 40
+Tortoise : 100
+Horse : 150
+Cat : 0
+Hare : 480
+Hare : 560
+Tortoise : 110
+Cat : 0
+Dog : 60
+Horse : 150
+Tortoise : 110
+Hare : 560
+Horse : 150
+Cat : 40
+Dog : 60
+Cat : 80
+Hare : 560
+Tortoise : 120
+Dog : 60
+Horse : 150
+Horse : 150
+Hare : 560
+Cat : 80
+Tortoise : 130
+Dog : 80
+Horse : 150
+Tortoise : 140
+Cat : 80
+Hare : 640
+Dog : 80
+Dog : 100
+Cat : 80
+Tortoise : 150
+Horse : 150
+Hare : 640
+Horse : 150
+Cat : 120
+Tortoise : 160
+Dog : 100
+Hare : 720
+Cat : 160
+Tortoise : 160
+Hare : 720
+Dog : 100
+Horse : 150
+Dog : 100
+Hare : 720
+Tortoise : 160
+Horse : 150
+Cat : 160
+Dog : 100
+Tortoise : 160
+Cat : 160
+Hare : 800
+Horse : 200
+Horse : 200
+Cat : 160
+Dog : 100
+Hare : 880
+Tortoise : 170
+Cat : 160
+Dog : 100
+Tortoise : 180
+Hare : 960
+Horse : 200
+Tortoise : 190
+Dog : 120
+Cat : 160
+Horse : 200
+Hare : 960
+Horse : 250
+Cat : 160
+Dog : 120
+Hare : 960
+Tortoise : 200
+Cat : 160
+Tortoise : 210
+Horse : 250
+Dog : 120
+Hare : 1040
+Hare: I finished!
+
+The race is over! The Hare is the winner
+
+Tortoise: You beat me fair and square.
+
+Cat: You beat me fair and square.
+
+Dog: You beat me fair and square.
+
+Horse: You beat me fair and square.
+
+
+Press any key to continue . . .
+
+Welcome to the Marathon Race Runner Program 
+
+Select your data source:
+
+1. Derby database
+2. XML file
+3. Text file
+4. Default two runners
+5. Exit
+
+Enter your choice: 2
+Enter XML file name: FinalXMLData.xml
+
+Get set...Go!
+
+Tortoise : 10
+Dog : 0
+Hare : 0
+Cat : 0
+Tortoise : 20
+Hare : 0
+Cat : 0
+Dog : 50
+Tortoise : 30
+Cat : 0
+Hare : 0
+Dog : 100
+Tortoise : 40
+Cat : 0
+Hare : 0
+Dog : 100
+Dog : 100
+Tortoise : 50
+Cat : 30
+Hare : 0
+Tortoise : 60
+Dog : 150
+Hare : 0
+Cat : 30
+Cat : 30
+Hare : 0
+Tortoise : 70
+Dog : 150
+Hare : 0
+Dog : 150
+Tortoise : 80
+Cat : 30
+Hare : 0
+Dog : 200
+Cat : 30
+Tortoise : 90
+Cat : 60
+Dog : 250
+Tortoise : 100
+Hare : 0
+Hare : 0
+Tortoise : 110
+Cat : 90
+Dog : 300
+Cat : 120
+Dog : 300
+Hare : 100
+Tortoise : 120
+Cat : 120
+Tortoise : 130
+Hare : 100
+Dog : 300
+Cat : 120
+Hare : 100
+Dog : 300
+Tortoise : 140
+Dog : 300
+Tortoise : 150
+Cat : 120
+Hare : 200
+Hare : 200
+Cat : 120
+Dog : 300
+Tortoise : 160
+Hare : 200
+Dog : 300
+Tortoise : 170
+Cat : 120
+Tortoise : 180
+Hare : 200
+Dog : 350
+Cat : 120
+Hare : 200
+Dog : 350
+Cat : 120
+Tortoise : 190
+Hare : 200
+Dog : 400
+Tortoise : 200
+Cat : 120
+Hare : 200
+Tortoise : 210
+Dog : 400
+Cat : 120
+Tortoise : 220
+Dog : 400
+Hare : 200
+Cat : 120
+Tortoise : 230
+Cat : 120
+Dog : 400
+Hare : 200
+Dog : 400
+Cat : 120
+Tortoise : 240
+Hare : 200
+Cat : 120
+Tortoise : 250
+Hare : 200
+Dog : 400
+Cat : 150
+Dog : 450
+Tortoise : 260
+Hare : 200
+Hare : 200
+Cat : 150
+Tortoise : 270
+Dog : 450
+Tortoise : 280
+Hare : 200
+Cat : 150
+Dog : 450
+Dog : 450
+Tortoise : 290
+Cat : 150
+Hare : 200
+Hare : 200
+Dog : 450
+Tortoise : 300
+Cat : 180
+Cat : 180
+Dog : 450
+Hare : 200
+Tortoise : 310
+Cat : 180
+Tortoise : 320
+Dog : 450
+Hare : 300
+Cat : 180
+Dog : 450
+Tortoise : 330
+Hare : 300
+Cat : 180
+Tortoise : 340
+Hare : 300
+Dog : 450
+Tortoise : 350
+Dog : 450
+Hare : 300
+Cat : 180
+Tortoise : 360
+Cat : 180
+Dog : 450
+Hare : 300
+Tortoise : 370
+Hare : 300
+Dog : 500
+Cat : 180
+Tortoise : 380
+Dog : 500
+Hare : 300
+Cat : 210
+Cat : 210
+Dog : 500
+Hare : 300
+Tortoise : 390
+Tortoise : 400
+Dog : 500
+Hare : 300
+Cat : 240
+Hare : 300
+Cat : 240
+Tortoise : 410
+Dog : 500
+Dog : 500
+Tortoise : 420
+Hare : 300
+Cat : 240
+Tortoise : 430
+Hare : 400
+Dog : 550
+Cat : 240
+Hare : 400
+Tortoise : 440
+Dog : 550
+Cat : 240
+Cat : 270
+Hare : 400
+Dog : 550
+Tortoise : 450
+Tortoise : 460
+Dog : 550
+Cat : 270
+Hare : 500
+Tortoise : 470
+Hare : 500
+Dog : 550
+Cat : 300
+Dog : 550
+Cat : 330
+Hare : 500
+Tortoise : 480
+Hare : 500
+Tortoise : 490
+Cat : 330
+Dog : 550
+Cat : 330
+Dog : 550
+Hare : 500
+Tortoise : 500
+Dog : 600
+Tortoise : 510
+Hare : 500
+Cat : 330
+Hare : 500
+Tortoise : 520
+Dog : 600
+Cat : 330
+Tortoise : 530
+Hare : 500
+Cat : 330
+Dog : 600
+Hare : 600
+Cat : 330
+Dog : 600
+Tortoise : 540
+Hare : 600
+Dog : 650
+Cat : 330
+Tortoise : 550
+Cat : 330
+Tortoise : 560
+Hare : 600
+Dog : 700
+Tortoise : 570
+Hare : 600
+Dog : 750
+Cat : 330
+Tortoise : 580
+Hare : 600
+Dog : 750
+Cat : 330
+Hare : 600
+Tortoise : 590
+Dog : 800
+Cat : 330
+Hare : 600
+Cat : 330
+Tortoise : 600
+Dog : 800
+Cat : 360
+Hare : 600
+Tortoise : 610
+Dog : 800
+Tortoise : 620
+Cat : 390
+Hare : 600
+Dog : 850
+Cat : 390
+Dog : 850
+Tortoise : 630
+Hare : 600
+Dog : 900
+Tortoise : 640
+Cat : 420
+Hare : 600
+Cat : 450
+Hare : 600
+Dog : 900
+Tortoise : 650
+Hare : 600
+Dog : 900
+Tortoise : 660
+Cat : 450
+Tortoise : 670
+Cat : 450
+Hare : 600
+Dog : 900
+Dog : 950
+Hare : 600
+Cat : 450
+Tortoise : 680
+Dog : 950
+Tortoise : 690
+Cat : 480
+Hare : 600
+Dog : 1000
+Tortoise : 700
+Cat : 480
+Hare : 600
+Dog: I finished!
+
+The race is over! The Dog is the winner
+
+Tortoise: You beat me fair and square.
+
+Hare: You beat me fair and square.
+
+Cat: You beat me fair and square.
+
+
+Press any key to continue . . .
+
+Welcome to the Marathon Race Runner Program 
+
+Select your data source:
+
+1. Derby database
+2. XML file
+3. Text file
+4. Default two runners
+5. Exit
+
+Enter your choice: 3
+Enter text file name: FinalTextData.txt
+
+Get set...Go!
+
+Cat : 30
+Tortoise : 10
+Dog : 50
+Hare : 100
+Cat : 30
+Tortoise : 20
+Dog : 50
+Hare : 100
+Cat : 30
+Hare : 100
+Tortoise : 30
+Dog : 100
+Tortoise : 40
+Cat : 30
+Dog : 100
+Hare : 100
+Tortoise : 50
+Dog : 150
+Cat : 60
+Hare : 100
+Tortoise : 60
+Dog : 150
+Hare : 100
+Cat : 60
+Hare : 100
+Tortoise : 70
+Cat : 60
+Dog : 200
+Dog : 200
+Hare : 100
+Cat : 60
+Tortoise : 80
+Cat : 60
+Hare : 100
+Tortoise : 90
+Dog : 250
+Cat : 60
+Hare : 100
+Tortoise : 100
+Dog : 300
+Cat : 60
+Dog : 350
+Hare : 100
+Tortoise : 110
+Cat : 60
+Hare : 100
+Tortoise : 120
+Dog : 400
+Dog : 450
+Cat : 60
+Hare : 100
+Tortoise : 130
+Dog : 500
+Tortoise : 140
+Cat : 60
+Hare : 100
+Hare : 100
+Dog : 550
+Tortoise : 150
+Cat : 60
+Hare : 100
+Dog : 550
+Cat : 60
+Tortoise : 160
+Hare : 100
+Tortoise : 170
+Dog : 600
+Cat : 60
+Hare : 100
+Cat : 60
+Dog : 600
+Tortoise : 180
+Tortoise : 190
+Dog : 600
+Cat : 60
+Hare : 200
+Tortoise : 200
+Hare : 200
+Dog : 650
+Cat : 60
+Cat : 60
+Tortoise : 210
+Hare : 200
+Dog : 700
+Tortoise : 220
+Dog : 750
+Hare : 200
+Cat : 90
+Cat : 120
+Tortoise : 230
+Dog : 800
+Hare : 200
+Cat : 150
+Dog : 800
+Tortoise : 240
+Hare : 200
+Hare : 300
+Dog : 850
+Tortoise : 250
+Cat : 180
+Hare : 400
+Cat : 180
+Dog : 900
+Tortoise : 260
+Dog : 900
+Hare : 400
+Tortoise : 270
+Cat : 180
+Tortoise : 280
+Cat : 180
+Hare : 400
+Dog : 900
+Dog : 950
+Cat : 180
+Tortoise : 290
+Hare : 400
+Tortoise : 300
+Hare : 400
+Cat : 180
+Dog : 1000
+Dog: I finished!
+
+The race is over! The Dog is the winner
+
+Tortoise: You beat me fair and square.
+
+Hare: You beat me fair and square.
+
+Cat: You beat me fair and square.
+
+
+Press any key to continue . . .
+
+Welcome to the Marathon Race Runner Program 
+
+Select your data source:
+
+1. Derby database
+2. XML file
+3. Text file
+4. Default two runners
+5. Exit
+
+Enter your choice: 4
+
+Get set...Go!
+
+Hare : 100
+Tortoise : 10
+Hare : 100
+Tortoise : 20
+Hare : 100
+Tortoise : 30
+Hare : 100
+Tortoise : 40
+Hare : 100
+Tortoise : 50
+Hare : 100
+Tortoise : 60
+Hare : 100
+Tortoise : 70
+Hare : 100
+Tortoise : 80
+Hare : 100
+Tortoise : 90
+Hare : 100
+Tortoise : 100
+Hare : 100
+Tortoise : 110
+Tortoise : 120
+Hare : 100
+Hare : 200
+Tortoise : 130
+Hare : 200
+Tortoise : 140
+Hare : 200
+Tortoise : 150
+Hare : 200
+Tortoise : 160
+Hare : 200
+Tortoise : 170
+Hare : 200
+Tortoise : 180
+Hare : 300
+Tortoise : 190
+Tortoise : 200
+Hare : 300
+Tortoise : 210
+Hare : 300
+Hare : 300
+Tortoise : 220
+Hare : 300
+Tortoise : 230
+Hare : 300
+Tortoise : 240
+Hare : 300
+Tortoise : 250
+Tortoise : 260
+Hare : 300
+Tortoise : 270
+Hare : 300
+Tortoise : 280
+Hare : 300
+Hare : 300
+Tortoise : 290
+Hare : 300
+Tortoise : 300
+Tortoise : 310
+Hare : 300
+Tortoise : 320
+Hare : 300
+Hare : 300
+Tortoise : 330
+Tortoise : 340
+Hare : 300
+Tortoise : 350
+Hare : 400
+Tortoise : 360
+Hare : 400
+Tortoise : 370
+Hare : 400
+Hare : 500
+Tortoise : 380
+Hare : 500
+Tortoise : 390
+Tortoise : 400
+Hare : 500
+Tortoise : 410
+Hare : 500
+Hare : 500
+Tortoise : 420
+Hare : 500
+Tortoise : 430
+Tortoise : 440
+Hare : 500
+Hare : 500
+Tortoise : 450
+Tortoise : 460
+Hare : 500
+Tortoise : 470
+Hare : 500
+Tortoise : 480
+Hare : 500
+Tortoise : 490
+Hare : 500
+Tortoise : 500
+Hare : 500
+Tortoise : 510
+Hare : 600
+Hare : 600
+Tortoise : 520
+Tortoise : 530
+Hare : 600
+Hare : 600
+Tortoise : 540
+Tortoise : 550
+Hare : 600
+Tortoise : 560
+Hare : 600
+Tortoise : 570
+Hare : 600
+Tortoise : 580
+Hare : 600
+Tortoise : 590
+Hare : 600
+Tortoise : 600
+Hare : 600
+Tortoise : 610
+Hare : 600
+Tortoise : 620
+Hare : 600
+Hare : 600
+Tortoise : 630
+Tortoise : 640
+Hare : 600
+Tortoise : 650
+Hare : 600
+Tortoise : 660
+Hare : 600
+Tortoise : 670
+Hare : 600
+Tortoise : 680
+Hare : 600
+Tortoise : 690
+Hare : 700
+Tortoise : 700
+Hare : 800
+Tortoise : 710
+Hare : 800
+Hare : 800
+Tortoise : 720
+Tortoise : 730
+Hare : 800
+Hare : 800
+Tortoise : 740
+Tortoise : 750
+Hare : 900
+Hare : 900
+Tortoise : 760
+Tortoise : 770
+Hare : 1000
+Hare: I finished!
+
+The race is over! The Hare is the winner
+
+Tortoise: You beat me fair and square.
+
+
+Press any key to continue . . .
+
+Welcome to the Marathon Race Runner Program 
+
+Select your data source:
+
+1. Derby database
+2. XML file
+3. Text file
+4. Default two runners
+5. Exit
+
+Enter your choice: 5
+
+Thank you for using my Marathon Race Program

@@ -1,0 +1,4 @@
+Tortoise	10	0 
+Hare	100	90 
+Cat	30	75
+Dog	50	40

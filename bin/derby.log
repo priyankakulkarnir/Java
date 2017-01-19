@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Thu Jun 30 14:41:08 PDT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0155-a342-2143-0000013ede05 
+on database directory /Users/priyankakulkarni/Desktop/PriyankaKulkarni_JavaCompFinal/Resources/FinalsDB with class loader sun.misc.Launcher$AppClassLoader@2a139a55 
+Loaded from file:/Users/priyankakulkarni/Desktop/PriyankaKulkarni_JavaCompFinal/Resources/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_77-b03
+user.dir=/Users/priyankakulkarni/Desktop/PriyankaKulkarni_JavaCompFinal
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.11.4
+derby.system.home=Resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Jun 30 14:41:08 PDT 2016: Shutting down Derby engine
+----------------------------------------------------------------
+Thu Jun 30 14:41:08 PDT 2016:
+Shutting down instance a816c00e-0155-a342-2143-0000013ede05 on database directory /Users/priyankakulkarni/Desktop/PriyankaKulkarni_JavaCompFinal/Resources/FinalsDB with class loader sun.misc.Launcher$AppClassLoader@2a139a55 
+----------------------------------------------------------------
